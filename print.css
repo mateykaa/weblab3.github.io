@@ -1,0 +1,29 @@
+header, nav {
+    display: none;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.article {
+    page-break-before: always; 
+    margin-bottom: 20px;
+    border-bottom: 1px solid #000;
+    padding: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    background: #fff; 
+    color: #000;
+}
